@@ -1,0 +1,22 @@
+{
+  "name": "vat",
+  "version": "1.0.0",
+  "description": "VAT",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.11.2",
+    "node-cache": "^1.1.0",
+    "soap": "^0.8.0",
+    "request": "^2.55.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raunsbaekdk/vat"
+  },
+  "author": "",
+  "license": "ISC"
+}
